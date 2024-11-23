@@ -1,14 +1,16 @@
 # MayhemSeirawan
 
-Linux Xboard Seirawan Chess Engine.
-Clone of Mayhem 8.4.
-Fully functional engine.
+Linux Xboard Seirawan Chess Engine. Clone of Mayhem 8.4. Fully functional engine.
 
-Bench: `242391492`
+![logo](https://github.com/user-attachments/assets/4b9cc739-fc1f-4bd7-8746-c4cc5a9dfbcd)
+
+## Bench
+
+`242391492`
 
 ## Supported commands
 
-´´´
+```
 MayhemSeirawan. Linux Xboard Chess Engine. Written in C++20 language
 
 Supported commands:
@@ -75,11 +77,11 @@ bench [depth = 14]
 
 speed [ms = 5000]
   Show speed of the program
-´´´
+```
 
 ## Sample game
 
-´´´
+```
 [White "MayhemSeirawan 0.1"]
 [Black "Fairy-Max 5.0b"]
 [Result "1-0"]
@@ -107,6 +109,6 @@ Kc8 {-3,06/8 1,1} 27. Qxg7 {+8,98/15 1,8} Nc3+ {-7,72/11 1,7} 28. Kc1
 {-1000,07/12 1,0} 33. e7 {+104,85/14 0,3} Nc3+ {-1000,06/13 1,3} 34. Kf3
 {+104,85/9} c5 {-1000,05/15 1,2} 35. e8=E# {+104,85/2}
 {Xboard adjudication: Checkmate} 1-0
-´´´
+```
 
 Happy hacking !
