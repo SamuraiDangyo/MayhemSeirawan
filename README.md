@@ -11,7 +11,7 @@ Linux Xboard Seirawan Chess Engine. Clone of Mayhem 8.4. Fully functional engine
 ## Supported commands
 
 ```
-MayhemSeirawan. Linux Xboard Chess Engine. Written in C++20 language
+MayhemSeirawan. Linux Xboard Seirawan Chess engine. Written in C++20 language
 
 Supported commands:
 
@@ -19,7 +19,7 @@ help
   This help
 
 ping [N]
-  Responded 'pong N'
+  Responded by 'pong N'
 
 level [movestogo] [time] [inc]
   Setup time control
@@ -39,11 +39,14 @@ new
 list
   Show list of moves
 
-play [ms]
+play [ms = 5000]
   Watch a game
 
 analyze
   Analyze position
+
+undo
+  Go back in history
 
 .
   Respond ASAP
@@ -52,16 +55,10 @@ option
   Setup option in form of 'option hash=256'
 
 variant
-  Setup variant [normal, fischerandom] supported
+  Setup variant
 
 setboard
   Setup board using FEN notation
-
-undo
-  Go back in history
-
-quit
-  Exits the engine ASAP
 
 logo
   Print ASCII art logo
@@ -77,6 +74,12 @@ bench [depth = 14]
 
 speed [ms = 5000]
   Show speed of the program
+
+exit
+  Exits the analyze mode
+
+quit
+  Exits the engine ASAP
 ```
 
 ## Sample game
