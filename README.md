@@ -1,8 +1,8 @@
-![logo](https://github.com/user-attachments/assets/4b9cc739-fc1f-4bd7-8746-c4cc5a9dfbcd)
-
 # MayhemSeirawan
 
 Linux Xboard Seirawan Chess Engine. Clone of Mayhem 8.4. Fully functional engine.
+
+![logo](https://github.com/user-attachments/assets/4b9cc739-fc1f-4bd7-8746-c4cc5a9dfbcd)
 
 ## Bench
 
@@ -113,3 +113,5 @@ Kc8 {-3,06/8 1,1} 27. Qxg7 {+8,98/15 1,8} Nc3+ {-7,72/11 1,7} 28. Kc1
 {+104,85/9} c5 {-1000,05/15 1,2} 35. e8=E# {+104,85/2}
 {Xboard adjudication: Checkmate} 1-0
 ```
+
+Happy hacking !
