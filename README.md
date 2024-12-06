@@ -1,8 +1,8 @@
+![logo](https://github.com/user-attachments/assets/4b9cc739-fc1f-4bd7-8746-c4cc5a9dfbcd)
+
 # MayhemSeirawan
 
 Linux Xboard Seirawan Chess Engine. Clone of Mayhem 8.4. Fully functional engine.
-
-![logo](https://github.com/user-attachments/assets/4b9cc739-fc1f-4bd7-8746-c4cc5a9dfbcd)
 
 ## Bench
 
