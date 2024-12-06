@@ -2,7 +2,7 @@
 
 # MayhemSeirawan
 
-Linux Xboard Seirawan Chess Engine. Clone of Mayhem 8.4. Fully functional engine.
+Linux Xboard Seirawan Chess Engine
 
 ## Supported commands
 
